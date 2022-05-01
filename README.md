@@ -9,9 +9,11 @@
 **commit信息规范：**
 
 ```
-feat: commit信息说明
+feat: commit信息说明 
+fix: commit信息修改
 ```
 
 # 提交Pr榜单
 
 - [朽木白](https://github.com/xiumubai)
+- [李海波](https://github.com/lhbDesign)
